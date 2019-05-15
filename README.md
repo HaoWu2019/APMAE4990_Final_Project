@@ -37,3 +37,13 @@ The features we used:
 `avg_fare_amount`:
 
 `avg_hr_fare_amount`:
+
+## Contribution
+
+**Xin Xia**:
+
+**Haofeng Chen**:
+
+**Hao Wu**:
+
+**Caihui Xiao**:
