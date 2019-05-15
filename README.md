@@ -4,7 +4,7 @@
 
 This project aims to build different models to predict travel time between two points in New York City by using the New York yellow cab data in 2016 from Big Query.
 
-The models we built include **Linear Regression Model**, **Regularization Linear Model (\)**, **Decision Tree Model**, and **Random Forest Model**.
+The models we built include **Linear Regression Model**, **Regularization Linear Model (Lasso)**, **Decision Tree Model**, and **Random Forest Model**.
 
 The features we used:
 
