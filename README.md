@@ -43,10 +43,10 @@ The models we built include **Linear Regression Model**, **Regularization Linear
 
 ## Contribution
 
-**Xin Xia**:
+**Xin Xia**: Xin Xia is responsible for hyperparameters tuning and final prediction.
 
-**Haofeng Chen**:
+**Haofeng Chen**: Haofeng Chen is responsible for feature engineering and model selection.
 
-**Hao Wu**:
+**Hao Wu**: Hao Wu is responsible for exploratory data analysis and integrity check.
 
-**Caihui Xiao**:
+**Caihui Xiao**: Caihui Xiao is responsible for bigquery SQL and combining weather data.
