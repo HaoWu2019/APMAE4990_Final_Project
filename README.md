@@ -6,7 +6,7 @@ This project aims to build different models to predict travel time between two p
 
 The models we built include **Linear Regression Model**, **Regularization Linear Model (Lasso)**, **Decision Tree Model**, and **Random Forest Model**.
 
-The features we used:
+## The features we used:
 
 `visib`: Countinuous variable. The mean visibility for the day in miles.
 
